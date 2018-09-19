@@ -1,0 +1,87 @@
+This codebook consist of modified variables in "data_tidy_final.txt" as the result of run_analysis.R.
+
+Identifier
+1. activity (contain 6 activity WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, WALKING, STANDING, SITTING, LAYING)
+2. subject (contain integer from 1 to 30)
+
+Measurement
+
+1. Time_BodyAccelerometer_Mean_X
+2. Time_BodyAccelerometer_Mean_Y
+3. Time_BodyAccelerometer_Mean_Z
+4. Time_BodyAccelerometer_StandardDeviation_X
+5. Time_BodyAccelerometer_StandardDeviation_Y
+6. Time_BodyAccelerometer_StandardDeviation_Z
+7. Time_GravityAccelerometer_Mean_X
+8. Time_GravityAccelerometer_Mean_Y
+9. Time_GravityAccelerometer_Mean_Z
+10. Time_GravityAccelerometer_StandardDeviation_X
+11. Time_GravityAccelerometer_StandardDeviation_Y
+12. Time_GravityAccelerometer_StandardDeviation_Z
+13. Time_BodyAccelerometerJerk_Mean_X
+14. Time_BodyAccelerometerJerk_Mean_Y
+15. Time_BodyAccelerometerJerk_Mean_Z
+16. Time_BodyAccelerometerJerk_StandardDeviation_X
+17. Time_BodyAccelerometerJerk_StandardDeviation_Y
+18. Time_BodyAccelerometerJerk_StandardDeviation_Z
+19. Time_BodyGyroscope_Mean_X
+20. Time_BodyGyroscope_Mean_Y
+21. Time_BodyGyroscope_Mean_Z
+22. Time_BodyGyroscope_StandardDeviation_X
+23. Time_BodyGyroscope_StandardDeviation_Y
+24. Time_BodyGyroscope_StandardDeviation_Z
+25. Time_BodyGyroscopeJerk_Mean_X
+26. Time_BodyGyroscopeJerk_Mean_Y
+27. Time_BodyGyroscopeJerk_Mean_Z
+28. Time_BodyGyroscopeJerk_StandardDeviation_X
+29. Time_BodyGyroscopeJerk_StandardDeviation_Y
+30. Time_BodyGyroscopeJerk_StandardDeviation_Z
+31. Time_BodyAccelerometerMagnitude_mean
+32. Time_BodyAccelerometerMagnitude_std
+33. Time_GravityAccelerometerMagnitude_mean
+34. Time_GravityAccelerometerMagnitude_std
+35. Time_BodyAccelerometerJerkMagnitude_mean
+36. Time_BodyAccelerometerJerkMagnitude_std
+37. Time_BodyGyroscopeMagnitude_mean
+38. Time_BodyGyroscopeMagnitude_std
+39. Time_BodyGyroscopeJerkMagnitude_mean
+40. Time_BodyGyroscopeJerkMagnitude_std
+41. Frequency_BodyAccelerometer_Mean_X
+42. Frequency_BodyAccelerometer_Mean_Y
+43. Frequency_BodyAccelerometer_Mean_Z
+44. Frequency_BodyAccelerometer_StandardDeviation_X
+45. Frequency_BodyAccelerometer_StandardDeviation_Y
+46. Frequency_BodyAccelerometer_StandardDeviation_Z
+47. Frequency_BodyAccelerometer_meanFreq_X
+48. Frequency_BodyAccelerometer_meanFreq_Y
+49. Frequency_BodyAccelerometer_meanFreq_Z
+50. Frequency_BodyAccelerometerJerk_Mean_X
+51. Frequency_BodyAccelerometerJerk_Mean_Y
+52. Frequency_BodyAccelerometerJerk_Mean_Z
+53. Frequency_BodyAccelerometerJerk_StandardDeviation_X
+54. Frequency_BodyAccelerometerJerk_StandardDeviation_Y
+55. Frequency_BodyAccelerometerJerk_StandardDeviation_Z
+56. Frequency_BodyAccelerometerJerk_meanFreq_X
+57. Frequency_BodyAccelerometerJerk_meanFreq_Y
+58. Frequency_BodyAccelerometerJerk_meanFreq_Z
+59. Frequency_BodyGyroscope_Mean_X
+60. Frequency_BodyGyroscope_Mean_Y
+61. Frequency_BodyGyroscope_Mean_Z
+62. Frequency_BodyGyroscope_StandardDeviation_X
+63. Frequency_BodyGyroscope_StandardDeviation_Y
+64. Frequency_BodyGyroscope_StandardDeviation_Z
+65. Frequency_BodyGyroscope_meanFreq_X
+66. Frequency_BodyGyroscope_meanFreq_Y
+67. Frequency_BodyGyroscope_meanFreq_Z
+68. Frequency_BodyAccelerometerMagnitude_mean
+69. Frequency_BodyAccelerometerMagnitude_std
+70. Frequency_BodyAccelerometerMagnitude_meanFreq
+71. Frequency_BodyBodyAccelerometerJerkMagnitude_mean
+72. Frequency_BodyBodyAccelerometerJerkMagnitude_std
+73. Frequency_BodyBodyAccelerometerJerkMagnitude_meanFreq
+74. Frequency_BodyBodyGyroscopeMagnitude_mean
+75. Frequency_BodyBodyGyroscopeMagnitude_std
+76. Frequency_BodyBodyGyroscopeMagnitude_meanFreq
+77. Frequency_BodyBodyGyroscopeJerkMagnitude_mean
+78. Frequency_BodyBodyGyroscopeJerkMagnitude_std
+79. Frequency_BodyBodyGyroscopeJerkMagnitude_meanFreq
